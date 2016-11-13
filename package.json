@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-scraper",
+  "version": "1.0.0",
+  "description": "this is a web scraper wrapper I personally use on my projects",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "web", "scraper", "parser"],
+  "author": "emrinho@gmail.com",
+  "license": "ISC"
+}
